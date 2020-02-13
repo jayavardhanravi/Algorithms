@@ -3,7 +3,7 @@
 # Algorithms using C++
 
 
-[![Build status](https://ci.appveyor.com/api/projects/status/3naj630wc7vym9a5?svg=true)](https://ci.appveyor.com/project/jayavardhanravi/algorithms)
+[![Build status](https://ci.appveyor.com/api/projects/status/r38e6eckwxtls3rl?svg=true)](https://ci.appveyor.com/project/jayavardhanravi/algorithms)
 ![Language](https://img.shields.io/badge/language-C++-Blue)
 ![License](https://img.shields.io/badge/license-BSD2Clause-Green)
 
