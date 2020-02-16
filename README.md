@@ -7,7 +7,7 @@
 ![Language](https://img.shields.io/badge/language-C++-Blue)
 ![License](https://img.shields.io/badge/license-BSD2Clause-Green)
 
-Collection of various algorithms
+Collection of various algorithms:
 
 - Binary Search
 
