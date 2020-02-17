@@ -10,7 +10,7 @@
 Collection of various algorithms:
 
 - Binary Search
-
+- Ternary Search
 
 ## License
 ![License](https://img.shields.io/badge/license-BSD2Clause-Green)
